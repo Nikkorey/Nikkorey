@@ -1,10 +1,6 @@
 ### 👋 Hi there, I'm Nikko Rey
 
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on project in TeamTreehouse
 - 🌱 I’m currently learning a techdegree in TeamTreehouse to become a Frontend Web Developer
 
