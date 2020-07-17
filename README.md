@@ -1,8 +1,8 @@
-### 👋 Hi there, I'm Nikko Rey
+### 👋 Hi there, I'm Nikko Rey Hular
 
 
 - 🔭 I’m currently working on project in TeamTreehouse
-- 🌱 I’m currently learning a techdegree in TeamTreehouse to become a Frontend Web Developer
+- 🌱 I’m currently learning a techdegree in TeamTreehouse & FreecodeCamp to become a Frontend Web Developer
 
 <!--
 - 👯 I’m looking to collaborate on ...
