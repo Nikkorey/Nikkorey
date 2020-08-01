@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikkorey" alt="nikkorey" /> </p>
 
-- 🔭 I’m currently working on **Team Treehouse Tech Degree Project**
+- 🔭 I’m currently working on **Team Treehouse Tech Degree Project & DevChallenges.io**
 
 - 🌱 I’m currently learning **Treehouse, Freecodecamp and Udemy**
 
