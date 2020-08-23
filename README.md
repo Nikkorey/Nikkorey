@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Team Treehouse Tech Degree Project & DevChallenges.io**
 
-- 🌱 I’m currently learning **Treehouse, Freecodecamp and Udemy**
+- 🌱 I’m currently learning **Treehouse, Freecodecamp, Codeacademy and Udemy**
 
 - 💬 Ask me about **Html, Css, Javascript**
 
