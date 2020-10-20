@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikkorey" alt="nikkorey" /> </p>
 
-- 🔭 I’m currently working on **Team Treehouse Tech Degree Project, DevChallenges.io & FrontEnd Mentor**
+- 🔭 I’m currently working on **Team Treehouse Tech Degree Project, DevChallenges.io Challenges & FrontEnd Mentor Challenges**
 
-- 🌱 I’m currently learning **Treehouse, Freecodecamp, Codeacademy and Udemy**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **Html, Css, Javascript**
 
