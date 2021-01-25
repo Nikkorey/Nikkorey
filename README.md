@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikko Rey Hular</h1>
-<h3 align="center">A passionate frontend developer from U.A.E</h3>
+<h3 align="center">Aspirinng frontend web developer from U.A.E</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikkorey" alt="nikkorey" /> </p>
 
